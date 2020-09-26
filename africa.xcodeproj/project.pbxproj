@@ -48,6 +48,7 @@
 		79EB5BB9251F16260012E91C /* covers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = covers.json; sourceTree = "<group>"; };
 		79EB5BBA251F16260012E91C /* videos.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = videos.json; sourceTree = "<group>"; };
 		79EB5BBB251F16260012E91C /* locations.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = locations.json; sourceTree = "<group>"; };
+		79EB5BE2251F245B0012E91C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +65,7 @@
 		79EB5B83251F10F50012E91C = {
 			isa = PBXGroup;
 			children = (
+				79EB5BE2251F245B0012E91C /* README.md */,
 				79EB5B8E251F10F50012E91C /* africa */,
 				79EB5B8D251F10F50012E91C /* Products */,
 			);
